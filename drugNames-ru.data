@@ -2,228 +2,228 @@
 	"endings":[
 		{
 			"id":"getridof",
-			"endings":["-Ease","-No-More","-Away"," Catcher"," Beater"," Stomper"," Buster"," Bane", " Crusher", " Punisher", " Soother", " Relief", " Reliever"]
+			"endings":["-Облегчение","-Больше-Нет","-Прочь"," Ловец"," Победитель"," Топтун"," Разрушитель"," Бич", " Сокрушитель", " Каратель", " Успокоитель", " Облегчение", " Избавитель"]
 		},
 		{
 			"id":"reduce",
-			"endings":[" Reducer"," Decreaser"," Relief", " Reliever", "-Mate", " Helper", "-Ease", " Buddy"]
+			"endings":[" Редуктор", " Уменьшитель", " Облегчение", " Избавитель", "-Помощник", " Помощник", "-Облегчение", " Приятель"]
 		},
 		{
 			"id":"increase",
-			"endings":[" Increaser"," Creator"," Amplifier", " Enlarger", " Strengthener", " Augmenter", " Improver"]
+			"endings":[" Увеличитель", " Создатель", " Усилитель", " Расширитель", " Укрепитель", " Аугментер", " Улучшатель"]
 		}
 	
 	],
 	
-	"addons":[" Max"," Pro"," 2.0"," Maxi", " Plus", " Xtreme", " Extra", " XL", " Ultra", " Ultimate", " Elite", " Power", " +", " Intense", " Supreme"],
+	"addons":["Макс","Про","2.0","Макси", "Плюс", "Экстрим", "Экстра", "XL", "Ультра", "Альтимат", "Элит", "Пауэр", "+", "Интенс", "Суприм"],
 	"starts":[
 		{
 			"id":"cough",
-			"names":["Cough","Chesty Cough"],
+			"names":["Кашель","Мокрый кашель"],
 			"endType":"getridof"
 		},
 		{
 			"id":"painkiller",
-			"names":["Pain","Ache"],
+			"names":["Боль","Ломота"],
 			"endType":"getridof"
 		},
 		{
 			"id":"migraine",
-			"names":["Headache","Migraine"],
+			"names":["Головная боль","Мигрень"],
 			"endType":"getridof"
 		},
 		{
 			"id":"antiseizure",
-			"names":["Seizure","Shake"],
+			"names":["Припадок","Тремор"],
 			"endType":"getridof"
 		},
 		{
 			"id":"anesthetic",
-			"names":["Sleep","Sleepy Time","Awake-away","Time to sleep","Unconscious"]
+			"names":["Сон","Время спать","Прочь-бодрость","Пора спать","Без сознания"]
 		},
 		{
 			"id":"hypertension",
-			"names":["Blood Pressure", "Hypertension"],
+			"names":["Давление", "Гипертония"],
 			"endType":"reduce"
 		},
 		{
 			"id":"angina",
-			"names":["Angina"],
+			"names":["Стенокардия"],
 			"endType":"getridof"
 		},
 		{
 			"id":"stroke",
-			"names":["Stroke"],
+			"names":["Инсульт"],
 			"endType":"getridof"
 		},
 		{
 			"id":"sicklecell",
-			"names":["Sickle Cell"],
+			"names":["Серповидноклеточная"],
 			"endType":"reduce"
 		},
 		{
 			"id":"antidepressants",
-			"names":["Cheer","Smile","Positivity","Happiness"],
+			"names":["Бодрость","Улыбка","Позитив","Счастье"],
 			"endType":"increase"
 		},
 		{
 			"id":"adhd",
-			"names":["ADHD"],
+			"names":["СДВГ"],
 			"endType":"reduce"
 		},
 		{
 			"id":"bipoladisorder",
-			"names":["Bipola"],
+			"names":["Биполярка"],
 			"endType":"reduce"
 		},
 		{
 			"id":"schizophrenia",
-			"names":["Schizophrenia"],
+			"names":["Шизофрения"],
 			"endType":"reduce"
 		},
 		{
 			"id":"alzheimers",
-			"names":["Alzheimer's"],
+			"names":["Альцгеймер"],
 			"endType":"reduce"
 		},
 		{
 			"id":"antihistamine",
-			"names":["Allergy", "Histamine"],
+			"names":["Аллергия", "Гистамин"],
 			"endType":"getridof"
 		},
 		{
 			"id":"insomnia",
-			"names":["Help You Sleep","Snore More","Snooze-A-Doodle-Doo","Nap More","Snooze More", "Sleep More", "Help You Snore", "Super Snooze", "Unbroken Sleep", "Soft Slumber", "Slumber Pal", "Slumber Buddy","Snooze Buddy", "Snore Buddy", "Snore Pal", "Wide Asleep","Sleep Friend"]
+			"names":["Поможет уснуть","Храпи больше","Спи-Чок-Чок","Чаще дремли","Чаще спи", "Спи больше", "Поможет храпеть", "Супер-Сон", "Непрерывный сон", "Лёгкая дрема", "Друг-Соня", "Приятель по сну","Друг по дремоте", "Друг по храпу", "Приятель по храпу", "Крепко спящий","Друг для сна"]
 		},
 		{
 			"id":"anxiety",
-			"names":["Anxiety","Stress"],
+			"names":["Тревога","Стресс"],
 			"endType":"reduce"
 		},
 		{
 			"id":"asthma",
-			"names":["Breathe","Asthma","A-Attack"],
+			"names":["Дыши","Астма","А-Приступ"],
 			"endType":"reduce"
 		},
 		{
 			"id":"bronchitis",
-			"names":["Bronchitis"],
+			"names":["Бронхит"],
 			"endType":"getridof"
 		},
 		{
 			"id":"tuberculosis",
-			"names":["Tuberculosis"],
+			"names":["Туберкулёз"],
 			"endType":"getridof"
 		},
 		{
 			"id":"rash",
-			"names":["Rash","Itch","Flake"],
+			"names":["Сыпь","Зуд","Шелушение"],
 			"endType":"getridof"
 		},
 		{
 			"id":"acne",
-			"names":["Zit","Spot","Acne","Pimple"],
+			"names":["Прыщ","Пятно","Акне","Угорь"],
 			"endType":"getridof"
 		},
 		{
 			"id":"hairloss",
-			"names":["Hair","Mane","Braid","Locks","Fur","Curls","Tresses","Fuzz"],
+			"names":["Волосы","Грива","Коса","Пряди","Шерсть","Кудри","Локоны","Пушок"],
 			"endType":"increase"
 		},
 		{
 			"id":"cold",
-			"names":["Cold","Sniffles","Sore Throat"],
+			"names":["Простуда","Насморк","Боль в горле"],
 			"endType":"getridof"
 		},
 		{
 			"id":"antibiotics",
-			"names":["Infection","Bacteria","Biotica"],
+			"names":["Инфекция","Бактерии","Биотика"],
 			"endType":"getridof"
 		},
 		{
 			"id":"antimalarial",
-			"names":["Mozzi","Mosquito","Malaria"],
+			"names":["Комари","Комар","Малярия"],
 			"endType":"getridof"
 		},
 		{
 			"id":"aids",
-			"names":["AIDS"],
+			"names":["СПИД"],
 			"endType":"reduce"
 		},
 		{
 			"id":"hiv",
-			"names":["HIV Vaccine","The HIV Vaccine","HIV Universal Vaccine","The HIV Jab"]
+			"names":["ВИЧ Вакцина","Вакцина от ВИЧ","Универсальная вакцина от ВИЧ","Укол от ВИЧ"]
 		},
 		{
 			"id":"acidreflux",
-			"names":["Stomach Pain","Acid","Reflux"],
+			"names":["Боль в желудке","Кислота","Рефлюкс"],
 			"endType":"getridof"
 		},
 		{
 			"id":"gastroenteritis",
-			"names":["Ulcer","Ulcero","Stomach Sore"],
+			"names":["Язва","Язверо","Боль в желудке"],
 			"endType":"getridof"
 		},
 		{
 			"id":"appetite",
-			"names":["Nibble","Snack","Appetite","Munch","Eat"],
+			"names":["Перекус","Закуска","Аппетит","Хрум","Есть"],
 			"endType":"getridof"
 		},
 		{
 			"id":"boweldisease",
-			"names":["Bowel Disease","Bowel Issues","Bowel Problems"],
+			"names":["Болезнь кишечника","Проблемы с кишечником","Кишечные проблемы"],
 			"endType":"getridof"
 		},
 		{
 			"id":"diabetes",
-			"names":["Diabeto","Diabetes"],
+			"names":["Диабедо","Диабет"],
 			"endType":"reduce"
 		},
 		{
 			"id":"hyperthyroidism",
-			"names":["HyperThy","Hyperthyroidism"],
+			"names":["Гипертир","Гипертиреоз"],
 			"endType":"reduce"
 		},
 		{
 			"id":"cancersymptoms",
-			"names":["Cancer"],
+			"names":["Рак"],
 			"endType":"reduce"
 		},
 		{
 			"id":"multiplesclerosis",
-			"names":["Multiple Sclerosis"],
+			"names":["Рассеянный склероз"],
 			"endType":"reduce"
 		},
 		{
 			"id":"cancervaccine",
-			"names":["Cancer Vaccine","Universal Cancer Jab","Universal Cancer Vaccine","The C Jab", "The C Vaccine"]
+			"names":["Вакцина от рака","Универсальная вакцина от рака","Универсальный укол от рака","Укол от Р", "Вакцина от Р"]
 		},
 		{
 			"id":"gout",
-			"names":["Gout"],
+			"names":["Подагра"],
 			"endType":"getridof"
 		},
 		{
 			"id":"liverdisease",
-			"names":["Liver Disease","Liver Trouble"],
+			"names":["Болезнь печени","Проблемы с печенью"],
 			"endType":"getridof"
 		},
 		{
 			"id":"warts",
-			"names":["Wart","Warty Growth","Flaky Wart","Fungal Wart"],
+			"names":["Бородавка","Бородавчатый нарост","Шершавая бородавка","Грибковая бородавка"],
 			"endType":"getridof"
 		},
 		{
 			"id":"femalecontraceptive",
-			"names":["Female Contraceptive","Preg-Away","Preg-Attack","Preg-No-More","Pregnancy Stopper","Preg Buster","Halt-a-Preg","Pregnancy Shield","P-Shield"]
+			"names":["Женский контрацептив","Беременность-Прочь","Атака на беременность","Больше никакой беременности","Остановщик беременности","Истребитель беременности","Стоп-Беременность","Щит от беременности","П-Щит"]
 		},
 		{
 			"id":"erectiledysfunction",
-			"names":["Longer Love","Longer Lover","Extended Pleasure","Functional Love","Love Bandit","Duration Plus","Erectile Function","Love Boost","Erecto","Erecto Boost","Bumper Erecto","Erection Ignite","Erection Igniter","Erecto Passion"]
+			"names":["Дольше любви","Удлинённая любовь","Продлённое удовольствие","Рабочая любовь","Разбойник любви","Плюс длительность","Эректильная функция","Усилитель любви","Эректо","Буст Эректо","Мощное Эректо","Возбудитель эрекции","Зажигатель эрекции","Эректо Страсть"]
 		},
 		{
 			"id":"malecontraceptive",
-			"names":["Shootablanx","Seed-away","Spermocine","Spermacide","Sperm Stopper", "Sperm Shield", "Sperm Block","Stoppa Sperm","Sperm Defense","Antisperm"]
+			"names":["Стреляй вхолостую","Семя-прочь","Спермоцин","Спермацид","Остановщик спермы", "Щит от спермы", "Блок спермы","Стоппер спермы","Защита от спермы","Антисперма"]
 		}
 	]
 }
